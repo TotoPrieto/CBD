@@ -1,0 +1,24 @@
+Numero de especie: 1
+Altura maxima: 4.00
+Nombre cientifico: mimosa
+Nombre vulgar: pichi
+Color: verde
+---------------------------------
+Numero de especie: 2
+Altura maxima: 8.00
+Nombre cientifico: alo
+Nombre vulgar: wea
+Color: verde
+---------------------------------
+Numero de especie: 3
+Altura maxima: 110.00
+Nombre cientifico: palmera
+Nombre vulgar: qsy
+Color: marron
+---------------------------------
+Numero de especie: 4
+Altura maxima: 2000.00
+Nombre cientifico: puta planta
+Nombre vulgar: putita
+Color: rosa
+---------------------------------
